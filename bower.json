@@ -1,0 +1,14 @@
+{
+  "name": "bokaskipti frontend",
+  "version": "0.1",
+  "homepage": "https://github.com/hilmarp/bokaskipti_frontend",
+  "authors": [
+    "Hilmar <hilmar@hilmarp.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "bokaskipti_frontend",
+  "version": "1.0.0",
+  "description": "Bara frontend, þ.e. HTML, CSS og JS.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hilmarp/bokaskipti_frontend.git"
+  },
+  "author": "Hilmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilmarp/bokaskipti_frontend/issues"
+  },
+  "homepage": "https://github.com/hilmarp/bokaskipti_frontend",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jit-grunt": "^0.9.1"
+  }
+}
